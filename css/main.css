@@ -40,7 +40,7 @@ body {
 
 .card-right {
   right: 20px; /* Ubica la segunda tarjeta en la esquina derecha */
-  margin-top: auto;
+  margin-top: 350px;
 }
 
 .card img {
