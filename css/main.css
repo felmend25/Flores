@@ -35,7 +35,7 @@ body {
 
 .card-left {
   left: 20px; /* Ubica la primera tarjeta en la esquina izquierda */
-  margin-top: 270px;
+  margin-top: auto;
 }
 
 .card-right {
@@ -76,7 +76,7 @@ body {
 
 }
 .titulo {
-  margin-bottom: 520px;
+  margin-bottom: 500px;
   font-family: "Arial Narrow", Arial, sans-serif;
   color: #ffffff93;
   position: absolute;
