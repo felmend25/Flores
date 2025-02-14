@@ -35,12 +35,12 @@ body {
 
 .card-left {
   left: 20px; /* Ubica la primera tarjeta en la esquina izquierda */
-  margin-top: 270px;
+  margin-top: auto;
 }
 
 .card-right {
   right: 20px; /* Ubica la segunda tarjeta en la esquina derecha */
-  margin-top: 350px;
+  margin-top: auto;
 }
 
 .card img {
